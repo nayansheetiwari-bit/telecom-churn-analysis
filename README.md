@@ -20,6 +20,7 @@ This project helped me combine **data cleaning, exploratory analysis, and dashbo
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
+- **Scikit learn** 
 - **Logistic Regression**
 - **Jupyter Notebook**
 - **Power BI**
